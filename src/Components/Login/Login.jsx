@@ -1,5 +1,5 @@
 import React from 'react'
-import '../WelcomePage/WelcomPage.css'
+import '../WelcomePage/WelcomePage.css'
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 function Login() {
