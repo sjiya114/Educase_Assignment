@@ -1,0 +1,33 @@
+@media (min-width:400px)
+{
+#welcome-bottom
+{
+width: 80vw;
+margin-left:10vw;
+}
+}
+@media (min-width:540px)
+{
+#welcome-bottom
+{
+width: 70vw;
+margin-left:10vw;
+}
+}
+
+@media (min-width:700px)
+{
+#welcome-bottom
+{
+width: 40vw;
+margin-left:30vw;
+}
+}
+@media (min-width:900px)
+{
+#welcome-bottom
+{
+width: 30vw;
+margin-left:35vw;
+}
+}
