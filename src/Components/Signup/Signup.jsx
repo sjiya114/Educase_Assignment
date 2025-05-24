@@ -28,7 +28,7 @@ function Signup() {
               <input onChange={(e)=>{setName(e.target.value)}} className='border-2 px-2 py-1 mb-1 w-full border-gray-400 rounded-md mt-4' name='FullName' type="text" required /></div>
             <div>
                <label htmlFor="PhoneNo"  className='block ml-3 absolute bg-gray-200'>Phone number</label>
-              <input className='border-2 px-2 py-1 mb-1 w-full border-gray-400 rounded-md mt-4' min={10} max={10} name='PhoneNo' type="number" required /></div>
+              <input className='border-2 px-2 py-1 mb-1 w-full border-gray-400 rounded-md mt-4' name='PhoneNo' type="number" required /></div>
             <div> 
                <label htmlFor="EmailAddress"  className='block ml-3 absolute bg-gray-200'>Email address</label>
               <input onChange={(e)=>{setEmail(e.target.value)}}   className='border-2 px-2 py-1 mb-1 w-full border-gray-400 rounded-md mt-4' name='EmailAddress' type="text" required /></div>
