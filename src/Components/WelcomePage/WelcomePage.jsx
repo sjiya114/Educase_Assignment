@@ -9,7 +9,7 @@ function WelcomePage() {
         <div>
 
         </div>
-        <div  className='px-6'>
+        <div  className='px-6 max-sm:mb-6'>
            <div  className='pb-5'>
                 <h1 className='text-black font-bold text-2xl py-2'>Welcome to PopX</h1>
                 <p className='text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
